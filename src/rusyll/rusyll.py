@@ -4,7 +4,9 @@ This package provides algorithmic phonetic syllable division for Russian
 language, similar to nltk SyllableTokenizer, but adding some
 language-specific rules.
 
-In fact, there are no unified rules for breaking words into syllables in Russian. Therefore I've selected the most applicable rule set developed by R. I. Avanesov, professor of MSU, in 50s. In short it's based on the sonority index of the letters.
+In fact, there are no unified rules for breaking words into syllables in Russian.
+Therefore I've selected the most applicable rule set developed by R. I. Avanesov,
+professor of MSU, in 50s. In short it's based on the sonority index of the letters.
 
 This package can be useful for various Natural Language applications.
 However, it is not suitable for hyphenation.
