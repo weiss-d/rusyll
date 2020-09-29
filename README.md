@@ -1,5 +1,7 @@
 # rusyll
- Python 3 package for dividing Russian words into phonetic syllables.
+[![PyPI version](https://img.shields.io/pypi/v/rusyll.svg?color=black)](https://pypi.org/project/rusyll/)
+
+Python 3 package for dividing Russian words into phonetic syllables.
 ## About
 This package provides algorithmic phonetic syllable division for Russian language, similar to [nltk SyllableTokenizer](https://github.com/nltk/nltk/blob/develop/nltk/tokenize/sonority_sequencing.py), but adding some language-specific rules.
 
